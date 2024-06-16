@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Undertale Fan Page</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: 'Courier New', Courier, monospace;
+            text-align: center;
+        }
+        h1, h2 {
+            color: #FF6347;
+        }
+        .content {
+            margin: 20px;
+            padding: 20px;
+            border: 2px solid #FF6347;
+            border-radius: 10px;
+            background-color: #1E1E1E;
+        }
+        .images img {
+            width: 200px;
+            height: auto;
+            margin: 10px;
+            border: 2px solid #FF6347;
+            border-radius: 10px;
+        }
+        .social-links a {
+            color: #FF6347;
+            text-decoration: none;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Undertale Fan Page</h1>
+    </header>
+    <div class="content">
+        <h2>About Me</h2>
+        <p>Hi! I'm an avid fan of Undertale, the indie RPG game created by Toby Fox. This page is dedicated to my favorite game and its amazing characters.</p>
+    </div>
+    <div class="content">
+        <h2>Favorite Characters</h2>
+        <div class="images">
+            <img src="https://via.placeholder.com/200" alt="Character 1">
+            <img src="https://via.placeholder.com/200" alt="Character 2">
+            <img src="https://via.placeholder.com/200" alt="Character 3">
+        </div>
+    </div>
+    <div class="content">
+        <h2>Favorite Quotes</h2>
+        <p>"You're gonna have a bad time." - Sans</p>
+        <p>"It's a beautiful day outside. Birds are singing, flowers are blooming..." - Sans</p>
+        <p>"Despite everything, it's still you." - Narrator</p>
+    </div>
+    <div class="content">
+        <h2>Fan Art</h2>
+        <div class="images">
+            <img src="https://via.placeholder.com/200" alt="Fan Art 1">
+            <img src="https://via.placeholder.com/200" alt="Fan Art 2">
+            <img src="https://via.placeholder.com/200" alt="Fan Art 3">
+        </div>
+    </div>
+    <div class="content social-links">
+        <h2>Connect with Me</h2>
+        <p><a href="https://twitter.com/yourusername" target="_blank">Twitter</a></p>
+        <p><a href="https://instagram.com/yourusername" target="_blank">Instagram</a></p>
+        <p><a href="https://tumblr.com/yourusername" target="_blank">Tumblr</a></p>
+    </div>
+    <footer>
+        <p>&copy; 2024 Undertale Fan Page</p>
+    </footer>
+</body>
+</html>
